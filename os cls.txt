@@ -1,0 +1,29 @@
+
+System information using different ways 
+
+System Devices status 
+
+Background processes 
+
+Graphics memory 
+
+Disk optimization 
+
+IP Address of the computer
+
+Sharing settings 
+
+CPU Utilization 
+
+RAM Utilization
+
+Disk capacity and partitions Virtual memory settings.
+
+Network connections
+
+User processes
+
+User Services
+
+Windows Firewall
+

@@ -1,0 +1,34 @@
+<html>
+
+<head>
+<title>about html </title>
+</head>
+<body>
+<p>paragraph </p>
+<sup>1st </sup>
+<sub>2nd</sub>
+<div>for row </div>
+<span>content only </span>
+<img src="" alt="" width="" height=""/>
+<img src="../images/koala.jpg" alt="" width="" height=""/>
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

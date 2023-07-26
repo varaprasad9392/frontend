@@ -1,0 +1,5 @@
+gpasswd -A aditya transport
+gpasswd -D aditya transport
+gpasswd -M aditya transport
+groupdel "group name"-->to delete whole group
+date -s 
